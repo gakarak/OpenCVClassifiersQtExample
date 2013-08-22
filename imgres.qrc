@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="img_add">img/add.png</file>
+        <file>img/emblem-favorite.png</file>
+        <file>img/emblem-important.png</file>
+        <file>img/emblem-nofavorite.png</file>
+        <file alias="img_exit">img/exit.png</file>
+        <file alias="img_face">img/face-monkey.png</file>
+        <file>img/info.png</file>
+        <file>img/kfind.png</file>
+        <file>img/khelpcenter.png</file>
+        <file>img/preferences-system.png</file>
+        <file alias="img_reload">img/reload.png</file>
+        <file>img/remove.png</file>
+        <file alias="img_fullscreen">img/view-fullscreen.png</file>
+    </qresource>
+</RCC>
