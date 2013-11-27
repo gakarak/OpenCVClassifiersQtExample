@@ -24,6 +24,7 @@ Build:
   - ... install qt-dev, opencv-dev
   - $ cd OpenCVClassifiersQtExample
   - $ mkdir build
+  - $ cd build
   - $ cmake ..
   - $ make -j6
   - $ ./ExampleOpenCVClassifiersQt_Debug
