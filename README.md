@@ -34,3 +34,7 @@ Author:
     Kalinovsky Alexander (gakarak)  
     --  
     Based on examples from OpenCV/samples  
+
+![alt tag](screenshots/qt_ocv_classifires_0.png)
+![alt tag](screenshots/qt_ocv_classifires_1.png)
+![alt tag](screenshots/qt_ocv_classifires_2.png)
