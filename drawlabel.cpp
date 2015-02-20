@@ -22,9 +22,14 @@ void DrawLabel::mousePressEvent(QMouseEvent *ev)
     if(mw->isDrawMode()) {
         switch (ev->button()) {
         case Qt::LeftButton:
-            qDebug() << "Qt::LeftButton";
-            listPointsOCV.push_back(cv::Point(ev->x(), ev->y()));
-            listLabelsOCV.push_back(mw->currentClassIdx);
+            if(ev->modifiers().testFlag(Qt::ControlModifier)) {
+                qDebug() << "Qt::LeftButton + Ctrl";
+                appendClusterOnPosition(ev->x(), ev->y());
+            } else {
+                qDebug() << "Qt::LeftButton";
+                listPointsOCV.push_back(cv::Point(ev->x(), ev->y()));
+                listLabelsOCV.push_back(mw->currentClassIdx);
+            }
             update();
             break;
         case Qt::RightButton:

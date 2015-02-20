@@ -155,7 +155,7 @@
              </size>
             </property>
             <property name="toolTip">
-             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Left button&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - add class-point&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Mid. button&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - add gauss-cluster of points&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;3. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Right button&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - remove point&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;4. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Mouse scroll&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - cahnge current class&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Left button&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - add class-point&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Mid. button&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;/&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;or (Ctrl + Left button)&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - add gauss-cluster of points&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;3. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Right button&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - remove point&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;4. &lt;/span&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Mouse scroll&lt;/span&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt; - cahnge current class&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
             </property>
             <property name="styleSheet">
              <string notr="true">background-color: rgb(255, 255, 255);</string>
@@ -261,7 +261,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>173</width>
+               <width>163</width>
                <height>39</height>
               </rect>
              </property>
@@ -682,7 +682,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>261</width>
+               <width>263</width>
                <height>204</height>
               </rect>
              </property>
@@ -1540,7 +1540,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>281</width>
+               <width>282</width>
                <height>295</height>
               </rect>
              </property>
@@ -1971,7 +1971,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>281</width>
+               <width>282</width>
                <height>299</height>
               </rect>
              </property>
@@ -2409,7 +2409,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>321</width>
+               <width>322</width>
                <height>317</height>
               </rect>
              </property>
@@ -2876,7 +2876,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>321</width>
+               <width>322</width>
                <height>163</height>
               </rect>
              </property>
@@ -3133,7 +3133,7 @@
               <rect>
                <x>0</x>
                <y>0</y>
-               <width>321</width>
+               <width>322</width>
                <height>163</height>
               </rect>
              </property>
